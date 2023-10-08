@@ -1,5 +1,9 @@
 ### Hello there 👋
-I'm Samuel Saturno! One of my favorites things is programing and learn more about it 
+I'm Samuel Saturno! One of my favorites things is programing and learn more about it
+
+<div>
+<a> <img loading="lazy" src="https://img.shields.io/visual-studio-marketplace/release-date/:extensionId" target="_blank"></a>
+</div>
 
 ## Contatos:
 
