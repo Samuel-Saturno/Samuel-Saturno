@@ -2,10 +2,11 @@
 I'm Samuel Saturno! One of my favorites things is programing and learn more about it. I'm studying Information Technology at UFERSA
 
 ### Hobbies
-
-| -------- | --------- |
-| Series | Star Wars | 
-| Football | Ping-Pong |
++ Footbal
++ Ping-Pong
++ Programing
++ Series
++ Music
 
 ### Familiar programming languages:
 
