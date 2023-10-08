@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+I'm Samuel Saturno! One of my favorites things is programing and learn more about it 
 <!--
 **Samuel-Saturno/Samuel-Saturno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
