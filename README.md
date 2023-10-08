@@ -2,7 +2,7 @@
 I'm Samuel Saturno! One of my favorites things is programing and learn more about it.
 I'm studying Information Technology at UFERSA
 
-### Hobbies
+### Hobbies:
 + Footbal
 + Ping-Pong
 + Programing
@@ -27,7 +27,7 @@ I'm studying Information Technology at UFERSA
 <a href="https://www.linkedin.com/in/samuel-de-almeida-saturno-3b63a320b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Statistics
+### Statistics:
 <div>
 <a href="https://github.com/Samuel-Saturno">
 <!--
