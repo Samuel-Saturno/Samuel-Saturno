@@ -6,7 +6,7 @@ I'm studying Information Technology at UFERSA
 + Futbal
 + Ping-Pong
 + Programing
-+ Series
++ Films
 + Music
 
 ### Familiar programming languages:
