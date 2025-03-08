@@ -3,15 +3,14 @@ I'm Samuel Saturno! One of my favorites things is programing and learn more abou
 I'm studying Information Technology at UFERSA
 
 ### Hobbies:
-+ Futbal
-+ Ping-Pong
-+ Programing
-+ Films
-+ Music
++ ⚽ Football
++ 💻 Programing
++ 🎞️ Films
++ 🎵 Music
 
 ### Familiar programming languages:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)--> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)--> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
 <!--
 <div>
@@ -30,8 +29,8 @@ I'm studying Information Technology at UFERSA
 ### Statistics:
 <div>
 <a href="https://github.com/Samuel-Saturno">
-<!--
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Saturno&layout=compact&langs_count=7&theme=dracula"/>
--->
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Saturno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
