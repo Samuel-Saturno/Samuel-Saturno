@@ -1,6 +1,6 @@
 ### Hello there 👋
 I'm Samuel Saturno! One of my favorites things is programing and learn more about it.
-I'm studying Information Technology at UFERSA
+I'm studying Information Technology at UFERSA, and my GitHub contains some study projects.
 
 ### Hobbies:
 + ⚽ Football
